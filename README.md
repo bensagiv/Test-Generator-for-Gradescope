@@ -18,7 +18,7 @@ The purpose of this program is to make creating tests for gradescope easier and 
 
 * The executable works only on windows
 
-* The .py file is mainly meant for Linux and Mac users that want to generate their own executable for their OS**,**
+* The .py file is mainly meant for Linux and Mac users that want to generate their own executable for their OS,
 or people thinking i am inviting them to download a virus. it can be run by anyone with a version of python 3.0 and above
 
 * This project is currently a skeleton which provides the bare minimum of functionality to be useful.
